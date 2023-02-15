@@ -1,0 +1,6 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+effort_pilot_process_data|function|a91182bc37e41d75|||||||||||||||
+effort_pilot_read_redcap_data|function|dce1d7e8790ef7fe|||||||||||||||
+processed_data|stem||1c12a5ab6a14e742|bcb161c31a0f7c75|1423143877||t19403.6939607341s||0|rds|local|vector|||0||unused argument redcap_effort  redcap_data
+redcap_data|stem|cbeccdb68d10ee27|c46dae126993f073|8791cf65bcc222b2|-63057566||t19403.6748047449s|6a36338da6589ea5|12324|rds|local|vector|||1.52||
+stem_data_import|object|71d40051ba28e91d|||||||||||||||
